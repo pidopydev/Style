@@ -1,9 +1,9 @@
 
 
-echo "youtube : Din-zUgex95"
+echo "instagram : pido.pydev"
 
 
 
 
-      echo "     GAK SUKA   "
-      echo "  TERSERAH GW ASUUU  "
+      echo "     FOLLOW   "
+      echo "  THANKS  "
